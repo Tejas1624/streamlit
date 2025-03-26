@@ -74,7 +74,7 @@ elif page == "About":
         - Machine Learning (optional)
     """)
 
-    st.write("Developed by [Your Name].")
+    st.write("Developed by tejas.")
 
 # Footer
 st.sidebar.info("Powered by Streamlit")
